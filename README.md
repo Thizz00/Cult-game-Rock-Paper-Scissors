@@ -7,7 +7,7 @@
 \
 `pip install sqlite3 `
 
- <import sqlite3
+ < import sqlite3
 import pandas as pd
 conn = sqlite3.connect('Score') 
 c = conn.cursor()
@@ -16,7 +16,7 @@ Username TEXT NOT NULL,
 score INTEGER   DEFAULT NULL
 )
  ''')
-conn.close()>
+conn.close() >
 
 # Screenshots
 
