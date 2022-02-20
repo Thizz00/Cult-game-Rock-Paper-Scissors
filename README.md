@@ -1,11 +1,11 @@
 ## Rock-Paper-Scissors
 
 # Installing Packages
-!pip install PyQt5 
+pip install PyQt5 
 \
-!pip install pandas 
+pip install pandas 
 \
-!pip install sqlite3 
+pip install sqlite3 
 
 # Screenshots
 
