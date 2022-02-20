@@ -6,7 +6,7 @@
 `pip install pandas `
 \
 `pip install sqlite3 `
-
+```python
  <import sqlite3>
 
 # Screenshots
