@@ -110,7 +110,7 @@ class Ui_Score(object):
         Form.setWindowTitle(_translate("Form", "Form"))
         self.pushButton_1.setText(_translate("Form", "Show the results"))
         self.pushButton_2.setText(_translate("Form", "Back"))
-        self.label_1.setText(_translate("Form", "LeaderTable"))
+        self.label_1.setText(_translate("Form", "Leaderboard"))
    
     def gotoMain(self):
              from main import Ui_Main
