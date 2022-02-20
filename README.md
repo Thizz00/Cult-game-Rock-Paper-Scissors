@@ -1,7 +1,7 @@
 ## Rock-Paper-Scissors
 
 # Installing Packages
-pip install PyQt5 
+`$ npm install marked` pip install PyQt5 
 \
 pip install pandas 
 \
@@ -16,6 +16,5 @@ pip install sqlite3
 ![alt text](zrzut5.png)
 ![alt text](zrzut6.png)
 
-####Inline code
 
 `$ npm install marked`
