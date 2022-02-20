@@ -17,7 +17,7 @@ score INTEGER   DEFAULT NULL
 )
  ''')
 conn.close()
-
+```
 # Screenshots
 
 ![alt text](zrzut1.png)
