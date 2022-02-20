@@ -15,3 +15,7 @@ pip install sqlite3
 ![alt text](zrzut4.png)
 ![alt text](zrzut5.png)
 ![alt text](zrzut6.png)
+
+####Inline code
+
+`$ npm install marked`
