@@ -7,7 +7,7 @@
 \
 `pip install sqlite3 `
 
- <?
+ <
 import sqlite3
 import pandas as pd
 conn = sqlite3.connect('Score') 
@@ -18,7 +18,7 @@ score INTEGER   DEFAULT NULL
 )
  ''')
 conn.close()
-    ?>
+    >
 
 # Screenshots
 
@@ -30,4 +30,3 @@ conn.close()
 ![alt text](zrzut6.png)
 
 
-`$ npm install marked`
