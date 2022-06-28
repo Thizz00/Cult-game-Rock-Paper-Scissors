@@ -1,6 +1,6 @@
-## Rock-Paper-Scissors
+# Rock-Paper-Scissors
 
-# Installing Packages
+## Installing Packages
 `pip install PyQt5 ` 
 \
 `pip install pandas `
